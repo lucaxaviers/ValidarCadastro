@@ -1,4 +1,4 @@
-Validar Cadastro de Alunos  
+✅Validar Cadastro de Alunos  
 
 Sistema em JavaScript que valida cadastros de alunos com base nos critérios:  
 - Nome: mínimo de 10 caracteres  
