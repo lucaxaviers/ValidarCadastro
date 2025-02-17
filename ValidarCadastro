@@ -1,5 +1,4 @@
-#Validando o Cadastro de Alunos em JavaScript
------------------------------------------------
+
 let aluno1={
     nome:"Lucas Rodrigues Xavier",
     idade:"17",
