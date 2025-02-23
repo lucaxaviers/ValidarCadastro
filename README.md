@@ -1,6 +1,6 @@
 # Validar Cadastro de Alunos  
 
-Sistema em JavaScript que valida cadastros de alunos com base nos critérios:  
+### 💻Sistema em JavaScript que valida cadastros de alunos com base nos critérios:  
 - Nome: mínimo de 10 caracteres  
 - Idade: mínimo de 14 anos  
 - Cursos: mínimo de 3 cursos  
